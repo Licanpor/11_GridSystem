@@ -1,0 +1,139 @@
+.texto{
+	text-align: center;
+	padding-bottom: 10%;
+}
+img:not(#logo){ 
+	border: 1px solid #CCD1D1;
+	padding: 1.5%
+ }
+header nav{
+	margin: 3%;
+}
+header img{
+	width: 60px;
+	height: 60px;
+	margin-top: 3%; 
+}
+
+header{
+	background-color: black;
+}
+ header ul{
+	list-style-type: none;
+    overflow: hidden;
+   }
+ header ul li {
+    float: left;
+ 	margin:2% ;
+ 	font-size: 12px;
+
+}
+header ul li a {
+    display: block;
+    color: white;
+    font-family: 'Play', sans-serif;
+    text-align: center;
+    text-decoration: none;
+}
+section{
+	background-color: #EBEDEF;
+	border-bottom:  1px solid #CCD1D1;
+	margin-bottom: 3%;
+}
+section p{
+	margin-top: 1%;
+}
+section p a{
+	font-size: 10px;
+}
+section img{
+	width: 100%;
+}
+.swhite img:not(.icon){
+	width: 100%
+}
+.img5{
+	padding-right: 120px;
+}
+.swhite p:not(.lista){
+	text-align: center;
+	font-family: 'Play', sans-serif;
+	font-size: 10px;
+	color:#2980B9;
+}
+.rowmp{
+	margin-left: 2%;
+}
+li{
+	list-style-type: none;
+}
+.icon{
+	width: 12px;
+	border: none;
+	margin-top: 0px;
+	margin-right: 7px;
+	margin-bottom: 0px;
+	margin-left: 7px;
+
+}
+.gris{
+	font-family: 'PT Sans', sans-serif;
+	font-weight: bold;
+}
+h3{
+	border-bottom: 1px solid #CCD1D1;
+	margin-bottom: 10%;
+	margin-top: 5%;
+}
+.lista{
+	font-family: 'Play', sans-serif;
+	font-size: 12px;
+	color:#2980B9;
+	margin-top: 10px;
+	margin-bottom:10px;
+}
+hr{
+	border: 1px solid #CCD1D1;
+	background-color:  #CCD1D1;
+	margin-top: 4px;
+	margin-bottom: 4px;
+
+}
+footer{
+	background-color: #1C2833;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	margin-top: 15px;
+	font-family: 'Play', sans-serif;
+	text-align: center;
+}
+footer ul{
+	list-style-type: none;
+    overflow: hidden;
+    margin-left: 250px;
+   }
+footer ul li {
+    float: left;
+ 	margin-top: 2%;
+ 	margin-bottom:2%;
+ 	margin-left: .5%;
+ 	margin-right: .5%;
+  	font-size: 12px;
+
+}
+footer ul li a {
+    display: block;
+    color:#808B96;
+    text-align: center;
+    text-decoration: none;
+}
+#p1{
+	color:#D5D8DC;
+	font-size: 12px;
+}
+#p2{
+	color: #566573;
+	font-size: 10px;  
+
+}
